@@ -5,7 +5,9 @@ Its allows to generate beautiful images like this:
 
 ![Example](https://github.com/EtienneTho/strf-like-model/blob/main/strf_plots_avg.png)
 
-These scripts have been developed to compute STRFs like representations in: Thoret, E., Caramiaux, B., Depalle, P., McAdams, S. (2020) Learning metrics on spectrotemporal modulations reveals the perception of musical instrument timbre, Nature Human Behaviour (https://rdcu.be/cbuTM)
+These scripts have been developed to compute STRFs like representations in: 
+
+Thoret, E., Caramiaux, B., Depalle, P., McAdams, S. (2020) Learning metrics on spectrotemporal modulations reveals the perception of musical instrument timbre, Nature Human Behaviour (https://rdcu.be/cbuTM)
 
 Please cite us if you use it :)
 
